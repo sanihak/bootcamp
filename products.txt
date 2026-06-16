@@ -1,0 +1,4 @@
+Laptop,50000
+Phone,30000
+Tablet,15000
+Mouse,500

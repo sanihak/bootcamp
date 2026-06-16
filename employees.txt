@@ -1,0 +1,4 @@
+John,25000
+Maria,35000
+Smith,40000
+Anjali,28000
